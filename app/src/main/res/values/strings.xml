@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_1">Click aqui</string>
+    <string name="digite">Digite aqui</string>
+    <string name="btn_03">TabWidget</string>
+    <string name="text1">Exemplo TAB WIDGET</string>
+    <string name="app_for">For</string>
+    <string name="app_while">While</string>
+    <string name="app_caixa">resultado</string>
+    <string name="app_limpa">Limpar</string>
+    <string name="btn_sw_rd">switch Radios</string>
+    <string name="textoSwitch">Estado</string>
+    <string name="msg_01">Mensagem</string>
+    <string name="opc1">Opção 01</string>
+    <string name="op2">Opção 02</string>
+    <string name="opc00">Opção 00</string>
+</resources>
